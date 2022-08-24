@@ -1,0 +1,169 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+.main {
+  display: flex;
+  flex-direction: row-reverse;
+  background-color: #f5f7fa;
+  width: 1200px;
+  margin: 0 auto;
+}
+.main-content {
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  padding: 105px 90px;
+  background: #ffffff;
+}
+.about-user-container {
+  margin-bottom: 50px;
+}
+.user-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000000;
+  margin-bottom: 20px;
+}
+.about-user {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+  margin-bottom: 25px;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+.about-user-text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  width: 700px;
+  text-align: justify;
+}
+.about-user-experience {
+  text-decoration: underline;
+  font-weight: 700;
+}
+.work-period {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  width: 700px;
+  text-align: justify;
+  margin-bottom: 5px;
+}
+
+.name-company {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+  margin-bottom: 5px;
+}
+.user-position {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  margin-bottom: 5px;
+}
+.user-position-title {
+  color: #fb6d3a;
+  }
+.company {
+  margin-bottom: 25px;
+}
+.user-achievements {
+  font-weight: 700;
+  color: #000000;
+}
+
+/* Sidebar */
+.sidebar {
+  background-color: #1e2939;
+  padding-top: 40px;
+  width: 370px;
+}
+.photo {
+  margin-bottom: 60px;
+}
+.sidebar-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+.contact,
+.skills {
+  margin-left: 40px;
+  margin-bottom: 60px;
+}
+
+.contact-type {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+  margin-right: 10px;
+}
+
+.contact-link {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #8f949c;
+  opacity: 0.5;
+}
+
+.skills-list {
+  margin-left: 15px;
+  margin-right: 20px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+  margin-bottom: 60px;
+}
+.skills-item {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fb6d3a;
+}
+.skills-item-text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+}
