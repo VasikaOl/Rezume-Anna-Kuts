@@ -47,7 +47,7 @@ ul {
   line-height: 27px;
   color: #000000;
   margin-bottom: 25px;
-  text-decoration: underline;
+  
   text-transform: uppercase;
 }
 .about-user-text {
@@ -71,7 +71,8 @@ ul {
   color: #595959;
   width: 700px;
   text-align: justify;
-  margin-bottom: 5px;
+  margin-bottom: 4px;
+  
 }
 
 .name-company {
@@ -80,7 +81,7 @@ ul {
   font-size: 16px;
   line-height: 20px;
   color: #000000;
-  margin-bottom: 5px;
+  margin-bottom: 4px;
 }
 .user-position {
   font-style: normal;
@@ -88,7 +89,7 @@ ul {
   font-size: 14px;
   line-height: 17px;
   color: #000000;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 .user-position-title {
   color: #fb6d3a;
@@ -99,6 +100,14 @@ ul {
 .user-achievements {
   font-weight: 700;
   color: #000000;
+}
+
+.education {
+  margin-bottom: 15px;
+}
+.education-specialty {
+  margin-bottom: 15px;
+  color: #fb6d3a;
 }
 
 /* Sidebar */
